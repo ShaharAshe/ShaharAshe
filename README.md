@@ -19,7 +19,7 @@ hahar = {
              },
             'AVG': '91',
             'language': ['Python', 'C', 'C++', 'assembly X86', 'html', 'R'],
-            'skills': ['git', 'Linux', 'object-oriented']
+            'skills': ['git', 'Linux', 'object-oriented', 'mathematics']
 }
 ```
 
