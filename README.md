@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there :duck:
 
-# Hello World :duck: #
+<!--# Hello World :duck: #-->
 [![Github followers](https://img.shields.io/github/followers/ShaharAshe?style=social&label=Follow)](https://github.com/ShaharAshe?tab=followers)
 
 ## Who Am I? ##
@@ -9,15 +9,17 @@ Hello, my name is Shahar Asher and I'm a Computer Science student at Hadassah Ac
 ### A Little Bit More ###
 ```python3
 #!/usr/bin/python3
-from datetime import datetime
-shahar = {
+hahar = {
             'first_name': 'Shahar',
             'last_name': 'Asher',
             'workplace': None,
-            'education': 'B.Sc Computer Science student who finished 1st year at Hadassah Academic College',
-            'AVG': '89',
-            'language': ['C', 'C++', 'assembly X86', 'html'],
-            'skills': ['git']
+            'education': {
+                            'field': 'B.Sc Computer Science student',
+                            'year': '2nd year'
+             },
+            'AVG': '91',
+            'language': ['Python', 'C', 'C++', 'assembly X86', 'html'],
+            'skills': ['git', 'Linux', 'object-oriented']
 }
 ```
 
