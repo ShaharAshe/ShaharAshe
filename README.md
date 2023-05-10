@@ -9,7 +9,7 @@ Hello, my name is Shahar Asher and I'm a Computer Science student at Hadassah Ac
 ### A little more information ###
 ```python3
 #!/usr/bin/python3
-hahar = {
+Shahar = {
             'first_name': 'Shahar',
             'last_name': 'Asher',
             'workplace': None,
