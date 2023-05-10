@@ -6,7 +6,7 @@
 ## Who Am I? ##
 Hello, my name is Shahar Asher and I'm a Computer Science student at Hadassah Academic College.
 
-### A Little Bit More ###
+### A little more information ###
 ```python3
 #!/usr/bin/python3
 hahar = {
