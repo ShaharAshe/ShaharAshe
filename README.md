@@ -18,7 +18,7 @@ hahar = {
                             'year': '2nd year'
              },
             'AVG': '91',
-            'language': ['Python', 'C', 'C++', 'assembly X86', 'html'],
+            'language': ['Python', 'C', 'C++', 'assembly X86', 'html', 'R'],
             'skills': ['git', 'Linux', 'object-oriented']
 }
 ```
