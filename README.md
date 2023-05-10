@@ -15,7 +15,8 @@ hahar = {
             'workplace': None,
             'education': {
                             'field': 'B.Sc Computer Science student',
-                            'year': '2nd year'
+                            'year': '2nd year',
+                            'academy': 'Hadassah Academic College'
              },
             'AVG': '91',
             'language': ['Python', 'C', 'C++', 'assembly X86', 'html', 'R'],
