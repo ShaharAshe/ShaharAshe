@@ -4,7 +4,7 @@
 [![Github followers](https://img.shields.io/github/followers/ShaharAshe?style=social&label=Follow)](https://github.com/ShaharAshe?tab=followers)
 
 ## Who Am I? ##
-Hello, my name is Shahar Asher and I'm a Computer Science student at Hadassah Academic College.
+- 🌱 Hello, my name is Shahar Asher and I’m currently learning Computer Science student at Hadassah Academic College.
 
 ### A little more information ###
 ```python3
@@ -24,7 +24,7 @@ Shahar = {
 }
 ```
 
-##  How to Reach Me? ## 
+##  📫 How to reach me: ## 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahar-asher-71ba82219/)
 
 <!--
