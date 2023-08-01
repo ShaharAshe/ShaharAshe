@@ -24,9 +24,9 @@ Shahar = {
 }
 ```
 
-##  📫 How to reach me: ## 
+## How to reach me: ## 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahar-asher-71ba82219/)
-[![Email Address](https://img.shields.io/badge/mail-red)](mailto:shaharas30@gmail.com)
+[![Email Address](📫)](mailto:shaharas30@gmail.com)
 
 <!--
 **ShaharAshe/ShaharAshe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
