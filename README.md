@@ -4,7 +4,7 @@
 [![Github followers](https://img.shields.io/github/followers/ShaharAshe?style=social&label=Follow)](https://github.com/ShaharAshe?tab=followers)
 
 ## Who Am I? ##
-- 🌱 Hello, my name is Shahar Asher and I’m currently learning Computer Science student at Hadassah Academic College.
+- 🌱 Hello, my name is Shahar Asher and I’m currently learning Computer Science at Hadassah Academic College.
 
 ### A little more information ###
 ```python3
