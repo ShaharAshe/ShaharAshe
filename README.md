@@ -4,11 +4,11 @@
 
 <section>
   <p>
-    <img align="center" src="https://img.shields.io/github/followers/ShaharAshe?style=social&label=Follow" alt="Github followers"/>
+    <img src="https://img.shields.io/github/followers/ShaharAshe?style=social&label=Follow" alt="Github followers"/>
   </p>
  
   <p>
-    <img align="center" src="https://komarev.com/ghpvc/?username=ShaharAshe&style=flat-square" alt="follower track">
+    <img src="https://komarev.com/ghpvc/?username=ShaharAshe&style=flat-square" alt="follower track">
   </p>
 </section>
 
@@ -40,14 +40,14 @@ Shahar = {
 }
 ```
   <p>
-    <img  src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" alt="C++"/>
-    <img  src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-    <img  src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img  src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img  src="https://img.shields.io/badge/Assembly-blueviolet?style=for-the-badge&logo=assemblyscript" alt="assembly"/>
-    <img  src="https://img.shields.io/badge/Language-R-blue?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
-    <img  src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
-    <img  src="https://img.shields.io/badge/OS-Linux-blue?style=for-the-badge&logo=linux&logoColor=white" alt="linux"/>
+    <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" alt="C++"/>
+    <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+    <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/Assembly-blueviolet?style=for-the-badge&logo=assemblyscript" alt="assembly"/>
+    <img src="https://img.shields.io/badge/Language-R-blue?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+    <img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
+    <img src="https://img.shields.io/badge/OS-Linux-blue?style=for-the-badge&logo=linux&logoColor=white" alt="linux"/>
   </p>
 </section>
 
@@ -58,16 +58,20 @@ Shahar = {
 <section>
  <p>
   <a href="https://www.linkedin.com/in/shahar-asher-71ba82219/">
-    <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkdein"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkdein"/>
   </a>
   
   <a href="mailto:shaharas30@gmail.com">
-    <img  src="https://img.shields.io/badge/Contact%20me-Email-blue?style=for-the-badge&logo=mail.ru&logoColor=white" alt="mail"/>
+    <img src="https://img.shields.io/badge/Contact%20me-Email-blue?style=for-the-badge&logo=mail.ru&logoColor=white" alt="mail"/>
   </a>
 </p>
 </section>
 
-<!--# [📫](mailto:shaharas30@gmail.com)-->
+<!--
+<section>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShaharAshe&show_icons=true&locale=en&layout=compact" alt="ShaharAshe" />
+</section>
+-->
 
 <!--
 **ShaharAshe/ShaharAshe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
