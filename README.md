@@ -2,6 +2,8 @@
 
 <!--# Hello World :duck: #-->
 [![Github followers](https://img.shields.io/github/followers/ShaharAshe?style=social&label=Follow)](https://github.com/ShaharAshe?tab=followers)
+ 
+![](https://komarev.com/ghpvc/?username=ShaharAshe&style=flat-square)
 
 ## Who Am I? ##
 - 🌱 Hello, my name is Shahar Asher and I’m currently learning Computer Science at Hadassah Academic College.
