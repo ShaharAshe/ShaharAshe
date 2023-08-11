@@ -35,8 +35,8 @@ Shahar = {
                             'academy': 'Hadassah Academic College'
              },
             'AVG': '91',
-            'language': ['Python', 'C', 'C++', 'assembly X86', 'html', 'R'],
-            'skills': ['git', 'Linux', 'object-oriented', 'mathematics']
+            'language': ['Python', 'C', 'C++', 'assembly X86', 'html', 'css', 'R'],
+            'skills': ['git', 'Linux', 'object-oriented', 'mathematics', 'algorithms']
 }
 ```
   <p>
@@ -47,6 +47,7 @@ Shahar = {
     <img src="https://img.shields.io/badge/Assembly-blueviolet?style=for-the-badge&logo=assemblyscript" alt="assembly"/>
     <img src="https://img.shields.io/badge/Language-R-blue?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
     <img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
+    <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
     <img src="https://img.shields.io/badge/OS-Linux-blue?style=for-the-badge&logo=linux&logoColor=white" alt="linux"/>
   </p>
 </section>
@@ -57,11 +58,14 @@ Shahar = {
 
 <section>
  <p>
+   <a href="https://stackoverflow.com/users/20755219/shahar">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-grey?style=for-the-badge&logo=stackoverflow" alt="stackoverflow"/>
+  </a>
   <a href="https://www.linkedin.com/in/shahar-asher-71ba82219/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkdein"/>
   </a>
-  
-  <a href="mailto:shaharas30@gmail.com">
+
+   <a href="mailto:shaharas30@gmail.com">
     <img src="https://img.shields.io/badge/Contact%20me-Email-blue?style=for-the-badge&logo=mail.ru&logoColor=white" alt="mail"/>
   </a>
 </p>
