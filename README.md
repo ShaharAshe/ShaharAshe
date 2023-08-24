@@ -40,7 +40,7 @@ Shahar = {
 }
 ```
   <p>
-    <a href="https://chromedino.com/">
+    <!--<a href="https://chromedino.com/">-->
       <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" alt="C++"/>
       <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" alt="C"/>
       <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -50,7 +50,7 @@ Shahar = {
       <img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
       <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
       <img src="https://img.shields.io/badge/OS-Linux-blue?style=for-the-badge&logo=linux&logoColor=white" alt="linux"/>
-    </a>
+    <!--</a>-->
   </p>
 </section>
 
