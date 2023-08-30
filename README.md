@@ -8,7 +8,7 @@
   </p>
  
   <p>
-    <img src="https://komarev.com/ghpvc/?username=ShaharAshe&style=for-the-badge" alt="follower track">
+    <img src="https://komarev.com/ghpvc/?username=ShaharAshe&style=flat-square" alt="follower track">
   </p>
 </section>
 
