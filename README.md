@@ -54,6 +54,17 @@ Shahar = {
       <img src="https://img.shields.io/badge/CSS3-blue?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
       <img src="https://img.shields.io/badge/OS-Linux-blue?&style=for-the-badge&logo=linux&logoColor=white" alt="linux"/>
     <!--</a>-->
+    <!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/assembly/assembly.png" alt="Assembly"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/r/r.png" alt="R"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML5"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS3"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="Linux"></code>-->
   </p>
 </section>
 
@@ -79,6 +90,7 @@ Shahar = {
 
 <section>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShaharAshe&show_icons=true&locale=en&layout=compact" alt="ShaharAshe" />
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=ShaharAshe&show_icons=true&theme=gotham" alt="ShaharAshe" />-->
 </section>
 
 
