@@ -87,13 +87,16 @@ Shahar = {
 </p>
 </section>
 
-
 <section>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShaharAshe&show_icons=true&locale=en&layout=compact" alt="ShaharAshe" />
   <!--<img src="https://github-readme-stats.vercel.app/api?username=ShaharAshe&show_icons=true&theme=gotham" alt="ShaharAshe" />-->
 </section>
-
-
+<!--
+<section>
+  <img height="20" src="https://i.imgur.com/dBaSKWF.gif" alt="line" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShaharAshe&theme=github" alt="contribute"/>
+</section>
+-->
 <!--
 **ShaharAshe/ShaharAshe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
