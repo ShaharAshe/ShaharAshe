@@ -8,7 +8,7 @@
   </p>
  
   <p>
-    <img src="https://komarev.com/ghpvc/?username=ShaharAshe&style=flat-square" alt="follower track">
+    <img src="https://komarev.com/ghpvc/?username=ShaharAshe&style=for-the-badge" alt="follower track">
   </p>
 </section>
 
@@ -45,7 +45,7 @@ Shahar = {
       <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
       <img src="https://img.shields.io/badge/Java-007396?&style=for-the-badge&logo=java" alt="java"/>
       <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/Node.js-green?&style=for-the-badge&logo=node.js" alt="node.js"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
       <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
       <img src="https://img.shields.io/badge/Assembly-blueviolet?&style=for-the-badge&logo=assemblyscript" alt="assembly"/>
       <img src="https://img.shields.io/badge/Language-R-blue?&style=for-the-badge&logo=r&logoColor=white" alt="R"/>
