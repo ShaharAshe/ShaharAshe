@@ -91,10 +91,10 @@ Shahar = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShaharAshe&show_icons=true&locale=en&layout=compact" alt="ShaharAshe" />
   <!--<img src="https://github-readme-stats.vercel.app/api?username=ShaharAshe&show_icons=true&theme=gotham" alt="ShaharAshe" />-->
 </section>
-
+<!--
 <section>
   <img align="center" src="https://media.giphy.com/media/g9wbFB61YEh1u/giphy.gif" width="100%" height="250px" />
-</section>
+</section>-->
 <!--
 <section>
   <img height="20" src="https://i.imgur.com/dBaSKWF.gif" alt="line" />
