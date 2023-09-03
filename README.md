@@ -35,8 +35,8 @@ Shahar = {
                             'year': '2nd year',
                             'academy': 'Hadassah Academic College'
              },
-            'AVG': '91',
-            'language': ['C', 'C++', 'java' 'Python', 'Node.js' 'assembly X86', 'html', 'css', 'R'],
+            'AVG': '90',
+            'language': ['C', 'C++', 'java' 'Python', 'JavaScript' 'assembly X86', 'html', 'css', 'R'],
             'skills': ['git', 'Linux', 'object-oriented', 'mathematics', 'algorithms']
 }
 ```
