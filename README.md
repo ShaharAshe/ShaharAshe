@@ -32,7 +32,7 @@ Shahar = {
             'workplace': None,
             'education': {
                             'field': 'B.Sc Computer Science student',
-                            'year': '2nd year',
+                            'year': '3rd year',
                             'academy': 'Hadassah Academic College'
              },
             'AVG': '90',
