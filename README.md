@@ -8,7 +8,8 @@
   <div>
     <uo><li>🌱 Hello, my name is Shahar Asher and I’m currently learning Computer Science at Hadassah Academic College.</li></uo>
     <h3>A little more information</h3>
-    ```python3
+    
+  ```python3
 #!/usr/bin/python3
 Shahar = {
             'first_name': 'Shahar',
@@ -24,7 +25,7 @@ Shahar = {
             'skills': ['git', 'Linux', 'object-oriented', 'mathematics', 'algorithms']
 }
 ```
-    <p>
+  <p>
       <!--<a href="https://chromedino.com/">-->
       <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" alt="C"/>
       <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
