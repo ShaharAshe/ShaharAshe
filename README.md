@@ -9,8 +9,7 @@
     <uo><li>🌱 Hello, my name is Shahar Asher and I’m currently learning Computer Science at Hadassah Academic College.</li></uo>
     <h3>A little more information</h3>
     
-  ```python3
-#!/usr/bin/python3
+```python3
 Shahar = {
             'first_name': 'Shahar',
             'last_name': 'Asher',
@@ -73,7 +72,21 @@ Shahar = {
   
   <!--
 **ShaharAshe/ShaharAshe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!--pre><code>
+Shahar = {
+            'first_name': 'Shahar',
+            'last_name': 'Asher',
+            'workplace': None,
+            'education': {
+                            'field': 'B.Sc Computer Science student',
+                            'year': '3rd year',
+                            'academy': 'Hadassah Academic College'
+             },
+            'AVG': '90',
+            'language': ['C', 'C++', 'java' 'Python', 'JavaScript' 'assembly X86', 'html', 'css', 'R'],
+            'skills': ['git', 'Linux', 'object-oriented', 'mathematics', 'algorithms']
+}
+</code></pre
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
