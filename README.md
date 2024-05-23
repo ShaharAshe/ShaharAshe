@@ -58,13 +58,13 @@
     </div>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShaharAshe&show_icons=true&locale=en&layout=compact" alt="ShaharAshe" />
     </div>
-    <div>
+    <!-- div>
         <img align="center" src="https://media.giphy.com/media/g9wbFB61YEh1u/giphy.gif" width="100%" height="250px"/>
 <!--     </div>
     <div>
          <img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTM0bTFlOHpiYXN5NGkwa2Z4NTkwYTRydnV6aXJydTJjYTNhcG9jZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/KpJ47gKe6b7v7xQyWj/giphy.gif" width="100%" height="250px"/>
     </div> -->
-</div>
+    </div -->
 <!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C"></code>
       <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++"></code>
       <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></code>
