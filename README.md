@@ -19,12 +19,6 @@
         <h2>💻 Languages & Skills:</h2>
     </div>
     <div>
-        <pre><code>Shahar = {
-            'language': ['C', 'C++', 'java' 'Python', 'JavaScript' 'assembly X86', 'html', 'css', 'R'],
-            'skills': ['git', 'Linux', 'object-oriented', 'mathematics', 'algorithms']
-}</code></pre>
-    </div>
-    <div>
         <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" alt="C"/>
         <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
         <img src="https://img.shields.io/badge/Java-007396?&style=for-the-badge&logo=java" alt="java"/>
@@ -64,7 +58,7 @@
     <div>
          <img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTM0bTFlOHpiYXN5NGkwa2Z4NTkwYTRydnV6aXJydTJjYTNhcG9jZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/KpJ47gKe6b7v7xQyWj/giphy.gif" width="100%" height="250px"/>
     </div> -->
-    </div -->
+    <!--</div -->
 <!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C"></code>
       <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++"></code>
       <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></code>
