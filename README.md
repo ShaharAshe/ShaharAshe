@@ -48,7 +48,6 @@
     <br/>
     <h2>📫 Contact Me</h2>
     <p>
-        <a href="https://stackoverflow.com/users/20755219/shahar"><img src="https://img.shields.io/badge/Stack%20Overflow-grey?style=for-the-badge&logo=stackoverflow" alt="Stack Overflow"/></a>
         <a href="https://www.linkedin.com/in/shahar-asher-71ba82219/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
         <a href="mailto:shaharas30@gmail.com"><img src="https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     </p>
