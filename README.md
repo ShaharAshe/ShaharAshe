@@ -54,7 +54,7 @@
     <br/>
     <h2>📊 GitHub Stats</h2>
     <p>
-        <img src="https://github-readme-stats.vercel.app/api?username=ShaharAshe&show_icons=true&theme=dark" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=ShaharAshe&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
     </p>
     <br/>
     <h2>🔥 Top Languages</h2>
