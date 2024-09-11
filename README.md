@@ -1,14 +1,14 @@
 <div align="center">
-    <h1 style="font-size: 3rem; margin-bottom: 0.5rem;">👋 Hi there! I'm Shahar Asher</h1>
-    <p style="font-size: 1.5rem; font-weight: bold; color: #555;">🎓 Computer Science Graduate | Software Developer | Full Stack Developer | Technology Enthusiast</p>
+    <h1>👋 Hi there! I'm Shahar Asher</h1>
+    <p>🎓 Computer Science Graduate | Software Developer | Full Stack Developer | Technology Enthusiast</p>
     <br/>
-    <h2 style="font-size: 2.5rem; margin-bottom: 0.5rem; color: #333;">🌐 About Me</h2>
-    <p style="font-size: 1.2rem; color: #666; max-width: 600px; line-height: 1.5;">
+    <h2>🌐 About Me</h2>
+    <p>
         I'm Shahar Asher, a recent Computer Science graduate from Hadassah Academic College with a passion for coding and problem-solving. My journey has equipped me with skills in various programming languages and technologies.
     </p>
     <br/>
-    <h2 style="font-size: 2.5rem; margin-bottom: 0.5rem; color: #333;">💻 Languages & Tools</h2>
-    <p style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+    <h2>💻 Languages & Tools</h2>
+    <p>
         <img src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
         <img src="https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" alt="C"/>
         <img src="https://img.shields.io/badge/Java-007396?&style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
@@ -23,8 +23,8 @@
         <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>
     </p>
     <br/>
-    <h2 style="font-size: 2.5rem; margin-bottom: 0.5rem; color: #333;">📚 Knowledge Base</h2>
-    <p style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+    <h2>📚 Knowledge Base</h2>
+    <p>
         <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
         <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/><br/>
@@ -47,23 +47,23 @@
         <img src="https://img.shields.io/badge/Machine%20Learning-00599C.svg?&style=for-the-badge&logo=blue" alt="Machine Learning"/>
     </p>
     <br/>
-    <h2 style="font-size: 2.5rem; margin-bottom: 0.5rem; color: #333;">🏆 Competitive Programming</h2>
-    <p style="font-size: 1.2rem; color: #666;">
-        Check out my <a href="https://leetcode.com/u/shahar_30/" style="color: #0077B5; text-decoration: none;">LeetCode profile</a> for more coding challenges and solutions.
+    <h2>🏆 Competitive Programming</h2>
+    <p>
+        Check out my <a href="https://leetcode.com/u/shahar_30/">LeetCode profile</a> for more coding challenges and solutions.
     </p>
     <br/>
-    <h2 style="font-size: 2.5rem; margin-bottom: 0.5rem; color: #333;">📫 Contact Me</h2>
-    <p style="display: flex; justify-content: center; gap: 20px;">
+    <h2>📫 Contact Me</h2>
+    <p>
         <a href="https://www.linkedin.com/in/shahar-asher-71ba82219/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
         <a href="mailto:shaharas30@gmail.com"><img src="https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     </p>
     <br/>
-    <h2 style="font-size: 2.5rem; margin-bottom: 0.5rem; color: #333;">📊 GitHub Stats</h2>
+    <h2>📊 GitHub Stats</h2>
     <p>
         <img src="https://github-readme-stats.vercel.app/api?username=ShaharAshe&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
     </p>
     <br/>
-    <h2 style="font-size: 2.5rem; margin-bottom: 0.5rem; color: #333;">🔥 Top Languages</h2>
+    <h2>🔥 Top Languages</h2>
     <p>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaharAshe&layout=compact&theme=dark" alt="Top Languages" />
     </p>
