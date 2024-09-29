@@ -60,7 +60,9 @@
     <br/>
     <h2>📊 GitHub Stats</h2>
     <p>
-        <img src="https://github-readme-stats.vercel.app/api?username=ShaharAshe&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=ShaharAshe&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaharAshe&theme=aura_dark&hide_border=false" alt="Streak Stats" /><br/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaharAshe&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
     </p>
     <br/>
     <h2>🔥 Top Languages</h2>
