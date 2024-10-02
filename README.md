@@ -1,12 +1,12 @@
 <div align="center">
     <h1>👋 Hi there! I'm Shahar Asher</h1>
     <p>🎓 Computer Science Graduate | Software Developer | Full Stack Developer | Technology Enthusiast</p>
-    <br/>
+<!--     <br/> -->
     <h2>🌐 About Me</h2>
     <p>
         I'm Shahar Asher, a recent Computer Science graduate from Hadassah Academic College with a passion for coding and problem-solving. My journey has equipped me with skills in various programming languages and technologies.
     </p>
-    <br/>
+<!--     <br/> -->
     <h2>💻 Languages & Tools</h2>
     <p>
         <img src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
@@ -22,7 +22,7 @@
         <img src="https://img.shields.io/badge/Linux-0078D6?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
         <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>
     </p>
-    <br/>
+<!--     <br/> -->
     <h2>📚 Knowledge Base</h2>
     <p>
         <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
@@ -46,24 +46,24 @@
         <img src="https://img.shields.io/badge/Data%20Visualization-00599C.svg?&style=for-the-badge&logo=blue" alt="Data Visualization"/>
         <img src="https://img.shields.io/badge/Machine%20Learning-00599C.svg?&style=for-the-badge&logo=blue" alt="Machine Learning"/>
     </p>
-    <br/>
+<!--     <br/> -->
     <h2>🏆 Competitive Programming</h2>
     <p>
         Check out my <a href="https://leetcode.com/u/shahar_30/">LeetCode profile</a> for more coding challenges and solutions.
     </p>
-    <br/>
+<!--     <br/> -->
     <h2>📫 Contact Me</h2>
     <p>
         <a href="https://www.linkedin.com/in/shahar-asher-71ba82219/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
         <a href="mailto:shaharas30@gmail.com"><img src="https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     </p>
-    <br/>
+<!--     <br/> -->
     <h2>📊 GitHub Stats</h2>
     <p>
         <img src="https://github-readme-stats.vercel.app/api?username=ShaharAshe&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
 <!--         <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaharAshe&theme=aura_dark&hide_border=false" alt="Streak Stats" /><br/> -->
     </p>
-    <br/>
+<!--     <br/> -->
     <h2>🔥 Top Languages</h2>
     <p>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaharAshe&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
